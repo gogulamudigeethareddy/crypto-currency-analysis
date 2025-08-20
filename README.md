@@ -25,3 +25,4 @@ This project analyzes multiple cryptocurrencies to deliver actionable insights a
 - Python 3.x
 - pipenv
 - Jupyter Notebook
+
